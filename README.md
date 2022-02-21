@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 I am a Della Martin Postdoctoral fellow in the division of biology and biological engineering (BBE) at the California Institute of Technology (Caltech).
 
-- 🔭 My research goal: to give abilities back to those who’ve lost them. I use my background in engineering and neuroscience to design neuroprosthetics and brain-machine interfaces. Previously, I was an NSF graduate research fellow studying human-robot interaction in a mechanical and aerospace engineering program. I got my start in haptic robotics & theoretical physics and computation.
-
-- 📫 How to reach me: by [email](sumner.norman@gmail.com) is usually best
-- 🕸 For more: see [my website](www.sumnernorman.com)
+🔭 My research goal: to give abilities back to those who’ve lost them. I use my background in engineering and neuroscience to design neuroprosthetics and brain-machine interfaces. Previously, I was an NSF graduate research fellow studying human-robot interaction in a mechanical and aerospace engineering program. I got my start in haptic robotics & theoretical physics and computation.
