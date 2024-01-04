@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Della Martin Postdoctoral fellow in the division of biology and biological engineering (BBE) at the California Institute of Technology (Caltech).
+I am the CEO of [Forest Neurotech](www.forestneurotech.org). 
+I still do things at Caltech and AE Studio. 
 
-🔭 My research goal: to give abilities back to those who’ve lost them. I use my background in engineering and neuroscience to design neuroprosthetics and brain-machine interfaces. Previously, I was an NSF graduate research fellow studying human-robot interaction in a mechanical and aerospace engineering program. I got my start in haptic robotics & theoretical physics and computation.
+I’m creating next-generation neurotechnologies to bridge the gap between human biology and humanity’s technological progress.
+
+I trained in Physics, Mechanical Engineering, and Neuroscience. Some Computer Science and Communications along the way. 
